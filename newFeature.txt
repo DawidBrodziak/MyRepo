@@ -1,1 +1,1 @@
-zmiana w pliku newfeature
+to jest zmiana w pliku w newFeatur branch
